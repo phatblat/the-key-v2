@@ -1,4 +1,5 @@
 *.dll
+*.hex
 *.hprof
 *.iml
 *.xccheckout
